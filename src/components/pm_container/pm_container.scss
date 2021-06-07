@@ -1,0 +1,10 @@
+$border-size: 3px solid black;
+$padding: 100px;
+$height: 200px;
+$textAlign: center;
+.container {
+  border: $border-size;
+  margin: $height;
+  padding: $padding;
+  text-align: $textAlign;
+}

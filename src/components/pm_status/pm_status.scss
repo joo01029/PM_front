@@ -1,0 +1,6 @@
+@use "../pm_number/pm_number"as number;
+
+.value {
+  font-size: number.$fontSize;
+  margin: number.$margin;
+}
